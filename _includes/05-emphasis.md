@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_My favourite foreign languages are **german** and **english**._ :+1:
+_My favorite programming languages are **C++**, **Python** and **R**._ :smile:
