@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+My favorite sports activities:
+* gym
+* squash
+* pole fitness
+* dance
+  * salsa
+  * bachata
+* indoor climbing
